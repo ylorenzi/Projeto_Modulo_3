@@ -15,7 +15,6 @@ Utilizando o Prophet, uma ferramenta Open Source para forecasting (previões) de
 
 Os dados utilizados foram cedidos pelo Urbie (Grupo de Inovação e Extensão em Engenharia Urbana), que é vinculado ao PPGEU (Programa de Pós-Graduação em Engenharia Urbana) da UFSCar. A base de dados possui informações diárias sobre algumas informações como: número total de casos de COVID, novas notificações de casos, número total de óbitos e novas notificações de óbitos. 
 
-Embora por conta da Lei de Acesso à Informação os dados sobre a COVID-19 devem ser públicos, o município de Araraquara não disponibiliza as informações em uma base de dados estruturada. Felizmente os dados foram disponibilizado pela coordenadoria do projeto Urbie Maps.
 
 ## 3- Metodologia
 
