@@ -22,3 +22,7 @@ Foi utilizado o Prophet para criar uma previsão da quantidade de casos de COVID
 
 ## 4- Conclusões
 
+A previsão foi de que 31.904 casos teriam ocorrido, em contraste aos 12.212 casos reportados. Com isso concluímos que 19.692 casos foram evitados por conta do lockdown.
+
+Vale lembrar que essa previsão é baseada na hipótese a tendência de evolução dos casos seria a mesma sem o fechamento. Essa é uma hipótese bem forte, dado que possivelmente o comportamento dos habitantes de Araraquara mudaria com a alta presença do vírus.
+
